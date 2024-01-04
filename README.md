@@ -41,7 +41,7 @@ The numerical example of unconstrained optimization problem in Chap 1.2 from Gen
 
 ![image](https://github.com/YoonDosik/Metaheuristics/assets/144199897/6bf77ba1-0e5e-44e5-bdce-8c6f65eb95bb)
 
-(Genetic Algorithms and Engineering Design. Mitsuo Gen and Runwei ChengCopyright © 1997 John Wiley & Sons, Inc2) 
+* Genetic Algorithms and Engineering Design. Mitsuo Gen and Runwei ChengCopyright © 1997 John Wiley & Sons, Inc2
 
 -------------
 
