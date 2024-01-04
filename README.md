@@ -14,6 +14,8 @@ min f(x,y)=(1-x)^2+〖100(y-x^2 )〗^2
 
 After apply three algorithms using Python, compare the performance among the algorithms.
 
+
+
 **2. Local Search Algorithms**
 
 1) natural real solution representation and 2) binary encoded solution representation 
