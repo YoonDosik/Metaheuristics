@@ -1,6 +1,6 @@
-## **Adaptive Optimization, Fall 2021**
+# **Adaptive Optimization, Fall 2021**
 
-# **1. Local Search Algorithms**
+### **1. Local Search Algorithms**
 
 Based on the below well-known Rosenbrck function, try to apply several search algorithms and find the optimal solution using three local search algorithms. 
 
@@ -16,7 +16,7 @@ After apply three algorithms using Python, compare the performance among the alg
 
 -------------
 
-# **2. Local Search Algorithms**
+### **2. Local Search Algorithms**
 
 1) natural real solution representation and 2) binary encoded solution representation 
 
