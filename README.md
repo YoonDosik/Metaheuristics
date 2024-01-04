@@ -62,4 +62,15 @@ This is the six hump camelback function with two decision variables where x lies
 
 ![image](https://github.com/YoonDosik/Metaheuristics/assets/144199897/3c656be2-6aca-420b-9aa7-d1ad8c2ed774)
 
+-------------
 
+### **6. Particle Swarm Algorithm**
+
+This is the six hump comelback function with two decision variables where x lies between ±3 and y lies between ±2. The objective is to minimize z. The global minimum lies at (-0.0898, 0.7126) where z = -1.0316.
+
+![image](https://github.com/YoonDosik/Metaheuristics/assets/144199897/ac5668e2-565b-43d1-a551-036f73c77499)
+
+Using the PSO you should find the optimal solution. 
+
+	1. Ring model
+ 	2. Star model
