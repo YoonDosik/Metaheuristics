@@ -64,7 +64,7 @@ This is the six hump camelback function with two decision variables where x lies
 
 -------------
 
-### **6. Particle Swarm Algorithm**
+### **6. Particle Swarm Optimization Algorithm**
 
 This is the six hump comelback function with two decision variables where x lies between ±3 and y lies between ±2. The objective is to minimize z. The global minimum lies at (-0.0898, 0.7126) where z = -1.0316.
 
@@ -74,3 +74,15 @@ Using the PSO you should find the optimal solution.
 
 	1. Ring model
  	2. Star model
+
+-------------
+
+### **7. Ant Colony Optimization Algorithm**
+
+For the 17 city asymmetric TSP (below) do the following. The optimal solution = 39.
+
+	NAME: br17
+	TYPE: ATSP
+	COMMENT: 17 city problem (Repetto)
+
+ ![image](https://github.com/YoonDosik/Metaheuristics/assets/144199897/f59726b2-db44-4761-a3cd-d4a834509b15)
