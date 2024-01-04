@@ -26,3 +26,19 @@ The numerical example of unconstrained optimization problem in Chap 1.2 from Gen
 
 	1. Define two kinds of “neighbor-hood” using in your algorithm. Then, apply those to 2).
 	2. Develop a neighbor-hood local search (NH-LS) algorithm using 1) natural real solution representation and 2) binary encoded solution representation.
+
+-------------
+
+### **4. Genetic Algorithm**
+
+1) Optimization problem
+
+![image](https://github.com/YoonDosik/Metaheuristics/assets/144199897/e7d2e1aa-dcbb-4807-a2a9-6720f9aae216)
+
+![image](https://github.com/YoonDosik/Metaheuristics/assets/144199897/630efb35-a84b-4c9c-a83b-27c94b3a259f)
+
+2) Word matching problem
+
+![image](https://github.com/YoonDosik/Metaheuristics/assets/144199897/6bf77ba1-0e5e-44e5-bdce-8c6f65eb95bb)
+
+(Genetic Algorithms and Engineering Design. Mitsuo Gen and Runwei ChengCopyright © 1997 John Wiley & Sons, Inc2) 
